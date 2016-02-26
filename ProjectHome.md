@@ -1,0 +1,1 @@
+Sistema web que ira controlar as finanças pessoais do usuário, ele irá cadastrar contas a pagar, datas de vencinemto, quantidade de parcelas, o sistema irá controlar e enviará e-mail´s ao usuário para avisa-lo sobre determinado evento que ele determinar, isso será selecionado por ele em uma lista de eventos pré definidas no sistema.
